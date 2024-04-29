@@ -9,10 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@geist-ui/react": "^2.2.5",
+    "@mui/material": "^5.15.15",
+    "@syncfusion/ej2-react-circulargauge": "^25.1.35",
+    "@syncfusion/ej2-react-lineargauge": "^25.1.40",
     "firebase": "^10.11.0",
+    "gauge": "^5.0.1",
     "next": "14.2.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-loader-spinner": "^6.1.6"
   },
   "devDependencies": {
     "eslint": "^8",
