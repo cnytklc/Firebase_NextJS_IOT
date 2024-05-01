@@ -1,36 +1,29 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Project acronym: Firebase IoT
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Project aims
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The Firebase IoT project aims to send ambient temperature and humidity data to Firebase
+Realtime Database using ESP8266 NodeMCU and DHT11 sensor and display these data in real
+time on NextJS web page and Android mobile application with MIT App Inventor. Users can
+remotely monitor temperature and humidity and access data on different platforms.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Ethics and standards
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Firebase IoT prioritizes ethical considerations by ensuring the privacy and security of user data.
+Data transmission and storage adhere to industry-standard encryption protocols to prevent
+unauthorized access. Additionally, the project complies with relevant data protection
+regulations to safeguard user privacy.
 
-## Learn More
+# Sustainable Development Goal (SDG)
 
-To learn more about Next.js, take a look at the following resources:
+The Firebase IoT project is related to the 11th Sustainable city and living spaces. The project
+can help users optimize energy consumption and create a more sustainable environment in
+their home or workplace. Real-time temperature and humidity monitoring can contribute to
+energy savings by enabling more efficient use of heating and cooling systems. Additional Notes:
+The project can be used in different areas such as home automation, agriculture and
+greenhouse applications.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![](https://i0.wp.com/blog.brightcities.city/wp-content/uploads/2020/07/ODS11-1.jpg?resize=900%2C554&ssl=1)
